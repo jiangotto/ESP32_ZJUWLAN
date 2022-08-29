@@ -1,2 +1,10 @@
 # ESP32_ZJUWLAN
-a piece of code for ESP32 to connect ZJUWLAN
+1️⃣Put everything in your project folder;
+
+2️⃣Include the header `zjunet.h`;
+
+3️⃣Fill in your ID and password;
+
+4️⃣Use `zjunet()` in your main code;
+
+5️⃣Done😎
